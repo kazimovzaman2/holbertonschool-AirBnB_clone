@@ -68,7 +68,6 @@
 
 div:hover > .popover {
     display: block;
-    cursor: pointer;
 }
 
 .popover h2 {
